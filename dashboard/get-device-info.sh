@@ -1,1 +1,1 @@
-get-device-info.sh
+sqlite3 /opt/dashboard.db "SELECT * FROM devices;"
