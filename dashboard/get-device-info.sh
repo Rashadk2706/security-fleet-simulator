@@ -1,0 +1,1 @@
+get-device-info.sh
